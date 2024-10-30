@@ -29,6 +29,8 @@ addon | version | maintainers | summary
 [web_leaflet_lib](web_leaflet_lib/) | 16.0.1.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Bring leaflet.js librairy in odoo.
 [web_view_leaflet_map](web_view_leaflet_map/) | 16.0.2.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Add new 'leaflet_map' view, to display markers.
 [web_view_leaflet_map_partner](web_view_leaflet_map_partner/) | 16.0.1.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | TODO
+[website_geoengine](website_geoengine/) | 16.0.1.0.0 |  | Geospatial Website
+[website_geoengine_store_locator](website_geoengine_store_locator/) | 16.0.1.0.0 | [![Wouitmil](https://github.com/Wouitmil.png?size=30px)](https://github.com/Wouitmil) | Geospatial Website store locator
 
 [//]: # (end addons)
 

@@ -16,6 +16,8 @@ setuptools.setup(
         'odoo-addon-web_leaflet_lib>=16.0dev,<16.1dev',
         'odoo-addon-web_view_leaflet_map>=16.0dev,<16.1dev',
         'odoo-addon-web_view_leaflet_map_partner>=16.0dev,<16.1dev',
+        'odoo-addon-website_geoengine>=16.0dev,<16.1dev',
+        'odoo-addon-website_geoengine_store_locator>=16.0dev,<16.1dev',
     ],
     classifiers=[
         'Programming Language :: Python',
