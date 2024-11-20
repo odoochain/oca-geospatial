@@ -25,6 +25,7 @@ addon | version | maintainers | summary
 [base_geoengine_demo](base_geoengine_demo/) | 17.0.1.0.0 |  | Geo spatial support Demo
 [geoengine_base_geolocalize](geoengine_base_geolocalize/) | 17.0.1.0.0 |  | Geospatial support for base_geolocalize
 [geoengine_partner](geoengine_partner/) | 17.0.1.0.0 |  | Geospatial support of partners
+[web_leaflet_lib](web_leaflet_lib/) | 17.0.1.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Bring leaflet.js librairy in odoo.
 
 [//]: # (end addons)
 
